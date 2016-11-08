@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 爱扒饭的码农 # ex. I m Chuan
+title: 灵魂工程师 # ex. I m Chuan
 name: 啊丢丢 # ex. DONGChuan
 email: bddiudiu@gmail.com
 location: 江苏 # ex. Nice, France
 company: AdamStudio
 company_url: http://www.alaso.club
 github_url: https://github.com/bddiudiu # ex. https://github.com/DONGChuan
-description: 爱扒饭的码农
+description: 灵魂工程师
 favicon: favicon.png # Image must be in assets/images
 repository: bddiudiu/bddiudiu.github.io # ex. DONGChuan/DONGChuan.github.io
 
