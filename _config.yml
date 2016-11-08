@@ -10,8 +10,8 @@ title: 爱扒饭的码农 # ex. I m Chuan
 name: 啊丢丢 # ex. DONGChuan
 email: bddiudiu@gmail.com
 location: 江苏 # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
+company: AdamStudio
+company_url: http://www.alaso.club
 github_url: https://github.com/bddiudiu # ex. https://github.com/DONGChuan
 description: 爱扒饭的码农
 favicon: favicon.png # Image must be in assets/images
@@ -86,7 +86,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_software_keywords: [Java, , Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, Boostrap]
 skill_mobile_app_keywords: [Android, Sketch UI Desgin]
